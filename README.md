@@ -1,6 +1,3 @@
-Sure! Here's a simpler, more casual version of the README:
-
----
 
 # Higher Lower Game
 
