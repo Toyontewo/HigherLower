@@ -24,9 +24,3 @@ A fun Python game where you guess who has more Instagram followers.
 ```bash
 python main.py
 ```
-
-That’s it. Have fun and see how high you can score!
-
----
-
-Let me know if you want this translated to a different language or turned into a Markdown file!
